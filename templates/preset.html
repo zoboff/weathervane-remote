@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% block body %}
+<center>
+	<h2>{{ the_title }}</h2>
+	<form method='POST' action='/'>
+	Set any preset! Be happy!
+	  <p>
+	  {% for preset in the_presets %}
+		  {% if preset==the_current %}
+    		  <input class="current" value='{{preset}}' name="submit_button" type='SUBMIT'>
+		  {% else %}
+    	      <input value='{{preset}}' name="submit_button" type='SUBMIT'>
+	      {% endif %}
+	  {% endfor %}
+	  </p>
+	</form>
+</center>
+
+{% endblock %}
