@@ -9,12 +9,12 @@
 
 # Первый запуск
 
-В файле wv_remotecontrol.py установите константы 
+В файле **wv_remotecontrol.py** установите следующие константы:
 
-WV_PATH - расположение исполняемого файла [TrueConf Weathervane](https://trueconf.ru/products/weathervane.html)
-FLASK_HOST - ваш IP
-FLASK_PORT - порт (можно оставить 5000)
-PRESET_COUNT - количество "пресетов" (строк) установленных в приложении [TrueConf Weathervane](https://trueconf.ru/products/weathervane.html)
+- WV_PATH - расположение исполняемого файла [TrueConf Weathervane](https://trueconf.ru/products/weathervane.html)
+- FLASK_HOST - ваш IP
+- FLASK_PORT - порт (можно оставить 5000)
+- PRESET_COUNT - количество "пресетов" (строк) установленных в приложении [TrueConf Weathervane](https://trueconf.ru/products/weathervane.html)
 
 # Как использовать
 
