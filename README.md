@@ -4,7 +4,7 @@
 
 # Что требуется
 
-1. Установленное приложение [TrueConf Weathervane](https://trueconf.ru/products/weathervane.html) 
+1. Установленное приложение [TrueConf Weathervane](https://trueconf.ru/products/weathervane.html) версии 4.* или выше
 2. Python версии 3.* и установленный flask 
 
 # Первый запуск
