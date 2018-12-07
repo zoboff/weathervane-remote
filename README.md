@@ -25,4 +25,9 @@ python wv_remotecontrol.py
 
 Откройте в браузере страницу http://<FLASK_HOST>:<FLASK_PORT> и по нажатию кнопок с номерами соотв. пресеты будут активироваться в приложении [TrueConf Weathervane](https://trueconf.ru/products/weathervane.html)
 
+![photo_2018-12-07_13-55-12](https://user-images.githubusercontent.com/33928051/49643918-07206700-fa28-11e8-88d9-cf3afd451014.jpg)
+
+
+# TrueConf Weathervane
+
 ![wv41](https://user-images.githubusercontent.com/33928051/49642618-a9d6e680-fa24-11e8-9c8a-8df292f723a3.png)
