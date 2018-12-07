@@ -16,6 +16,11 @@
 - FLASK_PORT - порт (можно оставить 5000)
 - PRESET_COUNT - количество "пресетов" (строк) установленных в приложении [TrueConf Weathervane](https://trueconf.ru/products/weathervane.html)
 
+## Запуск
+```
+python wv_remotecontrol.py
+```
+
 # Как использовать
 
 Откройте в браузере страницу http://<FLASK_HOST>:<FLASK_PORT> и по нажатию кнопок с номерами соотв. пресеты будут активироваться в приложении [TrueConf Weathervane](https://trueconf.ru/products/weathervane.html)
